@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src.test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="RXRT"/>
+
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcomponents-core/4.4.1"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ning/async-http-client/1.9.31/async-http-client-1.9.31.jar"/>
+
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

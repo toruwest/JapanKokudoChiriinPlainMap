@@ -1,0 +1,15 @@
+.apt_generated
+.externalToolBuilders
+.DS_Store
+*.properties
+*.bak
+*.pref
+caputre.*
+説明*.*
+setsumei.zip
+*.txt
+bin
+doc
+map-cache
+*.xml
+
