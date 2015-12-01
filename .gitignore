@@ -12,5 +12,5 @@ bin
 doc
 map-cache
 *.xml
-settings
+.settings
 
